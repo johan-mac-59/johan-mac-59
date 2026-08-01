@@ -1,8 +1,11 @@
 # 👋 Salut, moi c'est Johan Machu !
 
 <p align="center">
+  <img src="img1.png" width="200" style="border-radius: 50%;" />  
+</p>  
+<p align="center">
   <img src="https://img.shields.io/badge/Role-Data_%26_ML_Engineer-blue?style=forged&logo=databricks" />
-  <img src="img1.png" width="100" style="border-radius: 50%;" /> <!-- Note: Remplace par ton image de profil réelle -->
+
 </p>
 
 <p align="center">
