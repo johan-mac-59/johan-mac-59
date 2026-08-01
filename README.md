@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Data_%26_ML_Engineer-blue?style=forged&logo=databricks" />
-  <img src="src/photos/IMG_20250826_171533358.jpg" width="100" style="border-radius: 50%;" /> <!-- Note: Remplace par ton image de profil réelle -->
+  <img src="img1.png" width="100" style="border-radius: 50%;" /> <!-- Note: Remplace par ton image de profil réelle -->
 </p>
 
 <p align="center">
