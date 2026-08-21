@@ -48,31 +48,31 @@ Mon parcours est marqué par une transition unique : j'ai passé plus de 13 ans 
 ## 🚀 Projets Phares (Showcase)
 
 ### 🤖 [Pipeline Automatisé de Nettoyage (AI-Augmented)](https://github.com/johan-mac-59/PROJET_NETTOYAGE_AUTO)
-**Le défi :** Transformer des datasets bruts, sales et hétérogènes de manière répétitive.
-**La solution :** Un workflow Python modulaire pour la correction dynamique de la structure et l'enrichissement des données (détection d'encodage, gestion des outliers via IQR...).
-**Impact :** Réduction drastique du temps de preprocessing et augmentation de la qualité de la donnée source, aide à l'analyse exploratoire des données
+**Le défi :** Transformer des datasets bruts, sales et hétérogènes de manière répétitive.  
+**La solution :** Un workflow Python modulaire pour la correction dynamique de la structure et l'enrichissement des données (détection d'encodage, gestion des outliers via IQR...).  
+**Impact :** Réduction drastique du temps de preprocessing et augmentation de la qualité de la donnée source, aide à l'analyse exploratoire des données  
 
 ### 🏨 [BI & Modélisation Décisionnelle - Groupe Rivage](https://github.com/johan-mac-59/Dashboard_Rivage_Hotels)
-**Le défi :** Auditer et centraliser les données tarifaires pour un groupe hôtelier.
-**La solution :** Nettoyage massif (73k lignes) via **Power Query (M)**, conception d'un modèle en étoile et développement de mesures complexes en **DAX**.
-**Impact :** Création d'un dashboard Power BI permettant l'identification immédiate d'anomalies tarifaires pour la direction.
+**Le défi :** Auditer et centraliser les données tarifaires pour un groupe hôtelier.  
+**La solution :** Nettoyage massif (73k lignes) via **Power Query (M)**, conception d'un modèle en étoile et développement de mesures complexes en **DAX**.  
+**Impact :** Création d'un dashboard Power BI permettant l'identification immédiate d'anomalies tarifaires pour la direction.  
 
 ### 🎮 [Algorithmique & Logique - Escape Game Spatial](https://github.com/johan-mac-59/escape_game_space)
-**Le défi :** Concevoir un moteur de jeu textuel complexe basé sur des états dynamiques.
-**La solution :** Développement en Python pur mettant l'accent sur la **gestion robuste des exceptions**, le découpage modulaire et la gestion d'inventaire dynamique.
-**Impact :** Preuve de maîtrise de la logique algorithmique et de la qualité du code (Clean Code).
+**Le défi :** Concevoir un moteur de jeu textuel complexe basé sur des états dynamiques.  
+**La solution :** Développement en Python pur mettant l'accent sur la **gestion robuste des exceptions**, le découpage modulaire et la gestion d'inventaire dynamique.  
+**Impact :** Preuve de maîtrise de la logique algorithmique et de la qualité du code (Clean Code).  
 
 ### 🛡️ [RiskLens ML — Détection de Défaut de Paiement & Dashboard Décisionnel](https://github.com/johan-mac-59/RiskLens_ML)
-**Le défi :** Transformer des données transactionnelles brutes en une intelligence prédictive capable d'anticiper les risques de perte de revenus.
-**La solution :** Mise en place d'un pipeline de Machine Learning complet : ingénierie de ratios financiers complexes (utilisation du crédit, évolution de l'encours), entraînement de modèles de classification (XGBoost) avec gestion du déséquilibre des classes, et déploiement d'une interface Streamlit interactive.
-**Impact :** Fourniture d'un outil d'aide à la décision (Inférence) intégrant l'explicabilité (SHAP) pour justifier chaque score de risque et automatiser le processus d'approbation de crédit.
+**Le défi :** Transformer des données transactionnelles brutes en une intelligence prédictive capable d'anticiper les risques de perte de revenus.  
+**La solution :** Mise en place d'un pipeline de Machine Learning complet : ingénierie de ratios financiers complexes (utilisation du crédit, évolution de l'encours), entraînement de modèles de classification (XGBoost) avec gestion du déséquilibre des classes, et déploiement d'une interface Streamlit interactive.  
+**Impact :** Fourniture d'un outil d'aide à la décision (Inférence) intégrant l'explicabilité (SHAP) pour justifier chaque score de risque et automatiser le processus d'approbation de crédit.  
 
 ---
 
   ## 🧠 Soft Skills & Méthodologie
-*   **Rigueur "Zero Defect" :** Héritée de l'audit financier et de la conformité bancaire.
-*   **Esprit d'Investigation :** Capacité à remonter à la cause racine d'une anomalie (Root Cause Analysis).
-*   **Pédagogie :** Capacité à traduire des concepts techniques complexes en indicateurs métiers actionnables.
+*   **Rigueur "Zero Defect" :** Héritée de l'audit financier et de la conformité bancaire.  
+*   **Esprit d'Investigation :** Capacité à remonter à la cause racine d'une anomalie (Root Cause Analysis).  
+*   **Pédagogie :** Capacité à traduire des concepts techniques complexes en indicateurs métiers actionnables.  
 
 ---
 
