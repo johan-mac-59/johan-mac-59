@@ -62,6 +62,11 @@ Mon parcours est marqué par une transition unique : j'ai passé plus de 13 ans 
 **La solution :** Développement en Python pur mettant l'accent sur la **gestion robuste des exceptions**, le découpage modulaire et la gestion d'inventaire dynamique.
 **Impact :** Preuve de maîtrise de la logique algorithmique et de la qualité du code (Clean Code).
 
+### 🛡️ [RiskLens ML — Détection de Défaut de Paiement & Dashboard Décisionnel](https://github.com/johan-mac-59/RiskLens_ML)
+**Le défi :** Transformer des données transactionnelles brutes en une intelligence prédictive capable d'anticiper les risques de perte de revenus.
+**La solution :** Mise en place d'un pipeline de Machine Learning complet : ingénierie de ratios financiers complexes (utilisation du crédit, évolution de l'encours), entraînement de modèles de classification (XGBoost) avec gestion du déséquilibre des classes, et déploiement d'une interface Streamlit interactive.
+**Impact :** Fourniture d'un outil d'aide à la décision (Inférence) intégrant l'explicabilité (SHAP) pour justifier chaque score de risque et automatiser le processus d'approbation de crédit.
+
 ---
 
   ## 🧠 Soft Skills & Méthodologie
