@@ -49,8 +49,8 @@ Mon parcours est marqué par une transition unique : j'ai passé plus de 13 ans 
 
 ### 🤖 [Pipeline Automatisé de Nettoyage (AI-Augmented)](https://github.com/johan-mac-59/PROJET_NETTOYAGE_AUTO)
 **Le défi :** Transformer des datasets bruts, sales et hétérogènes de manière répétitive.
-**La solution :** Un workflow Python modulaire orchestrant des **Agents LLM locaux** pour la correction dynamique de la structure et l'enrichissement des données (détection d'encodage, gestion des outliers via IQR).
-**Impact :** Réduction drastique du temps de preprocessing et augmentation de la qualité de la donnée source.
+**La solution :** Un workflow Python modulaire pour la correction dynamique de la structure et l'enrichissement des données (détection d'encodage, gestion des outliers via IQR...).
+**Impact :** Réduction drastique du temps de preprocessing et augmentation de la qualité de la donnée source, aide à l'analyse exploratoire des données
 
 ### 🏨 [BI & Modélisation Décisionnelle - Groupe Rivage](https://github.com/johan-mac-59/Dashboard_Rivage_Hotels)
 **Le défi :** Auditer et centraliser les données tarifaires pour un groupe hôtelier.
