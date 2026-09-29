@@ -47,10 +47,11 @@ Mon parcours est marqué par une transition unique : j'ai passé plus de 13 ans 
 
 ## 🚀 Projets Phares (Showcase)
 
-### 🤖 [Pipeline Automatisé de Nettoyage (AI-Augmented)](https://github.com/johan-mac-59/PROJET_NETTOYAGE_AUTO)
-**Le défi :** Transformer des datasets bruts, sales et hétérogènes de manière répétitive.  
-**La solution :** Un workflow Python modulaire pour la correction dynamique de la structure et l'enrichissement des données (détection d'encodage, gestion des outliers via IQR...).  
-**Impact :** Réduction drastique du temps de preprocessing et augmentation de la qualité de la donnée source, aide à l'analyse exploratoire des données  
+### ✅ [Quitus — le fichier propre, et la preuve](https://github.com/johan-mac-59/quitus) · [▶️ Essayer en ligne](https://quitus.streamlit.app/)
+**Le défi :** Un export CSV, Excel ou JSON s'ouvre souvent sans erreur, mais cache des défauts silencieux : encodage, séparateur, montants en texte, dates mêlant plusieurs conventions, doublons. Ils faussent l'analyse sans rien faire planter.  
+**La solution :** Une application Python, en ligne de commande et en interface web Streamlit, qui profile un fichier inconnu, montre ses défauts, puis les corrige sous le contrôle de l'utilisateur. Elle détecte l'encodage et le séparateur, convertit les types (montants, dates, pourcentages, notes), uniformise le texte, supprime les doublons, et propose d'écrêter les valeurs aberrantes (IQR) et de combler les valeurs manquantes.  
+**Ce qui la distingue :** Elle prouve son travail. Un second profilage vérifie qu'aucune colonne ne reste mal typée, aucune valeur n'est perdue sans être signalée, et chaque étape donne un rapport d'audit en Markdown ou en HTML. Elle ne garde aucune donnée, et 378 tests automatisés la couvrent.
+
 
 ### 🏨 [BI & Modélisation Décisionnelle - Groupe Rivage](https://github.com/johan-mac-59/Dashboard_Rivage_Hotels)
 **Le défi :** Auditer et centraliser les données tarifaires pour un groupe hôtelier.  
