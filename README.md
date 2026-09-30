@@ -47,11 +47,15 @@ Mon parcours est marqué par une transition unique : j'ai passé plus de 13 ans 
 
 ## 🚀 Projets Phares (Showcase)
 
-### <img src="https://raw.githubusercontent.com/johan-mac-59/quitus/main/assets/quitus-icon.svg" height="24" align="top" alt=""> [Quitus — le fichier propre, et la preuve](https://github.com/johan-mac-59/quitus) · [▶️ Essayer en ligne](https://quitus.streamlit.app/)
+### <img src="https://raw.githubusercontent.com/johan-mac-59/quitus/main/assets/quitus-icon.svg" height="24" align="top" alt=""> [quitus - le fichier propre, et la preuve](https://github.com/johan-mac-59/quitus) · [▶️ Essayer en ligne](https://quitus.streamlit.app/)
 **Le défi :** Un export CSV, Excel ou JSON s'ouvre souvent sans erreur, mais cache des défauts silencieux : encodage, séparateur, montants en texte, dates mêlant plusieurs conventions, doublons. Ils faussent l'analyse sans rien faire planter.  
 **La solution :** Une application Python, en ligne de commande et en interface web Streamlit, qui profile un fichier inconnu, montre ses défauts, puis les corrige sous le contrôle de l'utilisateur. Elle détecte l'encodage et le séparateur, convertit les types (montants, dates, pourcentages, notes), uniformise le texte, supprime les doublons, et propose d'écrêter les valeurs aberrantes (IQR) et de combler les valeurs manquantes.  
-**Ce qui la distingue :** Elle prouve son travail. Un second profilage vérifie qu'aucune colonne ne reste mal typée, aucune valeur n'est perdue sans être signalée, et chaque étape donne un rapport d'audit en Markdown ou en HTML. Elle ne garde aucune donnée, et 378 tests automatisés la couvrent.
+**Ce qui la distingue :** Elle prouve son travail. Un second profilage vérifie qu'aucune colonne ne reste mal typée, aucune valeur n'est perdue sans être signalée, et chaque étape donne un rapport d'audit en Markdown ou en HTML. Elle ne garde aucune donnée, et 378 tests automatisés la couvrent.  
 
+### 🛡️ [RiskLens ML - Détection de Défaut de Paiement & Prédiction](https://github.com/johan-mac-59/RiskLens_ML) · [▶️ Essayer en ligne]([https://quitus.streamlit.app/](https://risklens-ml.streamlit.app/))
+**Le défi :** Transformer des données transactionnelles brutes en une intelligence prédictive capable d'anticiper les risques de perte de revenus.  
+**La solution :** Mise en place d'un pipeline de Machine Learning complet : ingénierie de ratios financiers complexes (utilisation du crédit, évolution de l'encours), entraînement de modèles de classification (XGBoost) avec gestion du déséquilibre des classes, et déploiement d'une interface Streamlit interactive.  
+**Impact :** Fourniture d'un outil d'aide à la décision (Inférence) intégrant l'explicabilité (SHAP) pour justifier chaque score de risque et automatiser le processus d'anticipation du défaut.  
 
 ### 🏨 [BI & Modélisation Décisionnelle - Groupe Rivage](https://github.com/johan-mac-59/Dashboard_Rivage_Hotels)
 **Le défi :** Auditer et centraliser les données tarifaires pour un groupe hôtelier.  
@@ -63,10 +67,7 @@ Mon parcours est marqué par une transition unique : j'ai passé plus de 13 ans 
 **La solution :** Développement en Python pur mettant l'accent sur la **gestion robuste des exceptions**, le découpage modulaire et la gestion d'inventaire dynamique.  
 **Impact :** Preuve de maîtrise de la logique algorithmique et de la qualité du code (Clean Code).  
 
-### 🛡️ [RiskLens ML — Détection de Défaut de Paiement & Prédiction](https://github.com/johan-mac-59/RiskLens_ML)
-**Le défi :** Transformer des données transactionnelles brutes en une intelligence prédictive capable d'anticiper les risques de perte de revenus.  
-**La solution :** Mise en place d'un pipeline de Machine Learning complet : ingénierie de ratios financiers complexes (utilisation du crédit, évolution de l'encours), entraînement de modèles de classification (XGBoost) avec gestion du déséquilibre des classes, et déploiement d'une interface Streamlit interactive.  
-**Impact :** Fourniture d'un outil d'aide à la décision (Inférence) intégrant l'explicabilité (SHAP) pour justifier chaque score de risque et automatiser le processus d'anticipation du défaut.  
+
 
 ---
 
